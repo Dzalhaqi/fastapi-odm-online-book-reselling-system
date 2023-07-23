@@ -9,7 +9,7 @@
     <br/>
   </p>
   <p align="center">
-    <a href="https://dzalhaqi.github.io/api-docs-fastapi-odm-online-book-reselling-system/">
+    <a href="https://dzalhaqi.github.io/api-docs-online-book-reselling-system/">
       View API docs
     </a>
   </p>
@@ -45,7 +45,7 @@ This prototype represents an internet-based repository for books, allowing the s
 
 ### Preview API Docs (using Redocly)
 
-
+![image](https://github.com/Dzalhaqi/fastapi-odm-online-book-reselling-system/assets/52716202/42e63c44-6391-45c0-831e-e04074069105)
 
 ## Built With
 
