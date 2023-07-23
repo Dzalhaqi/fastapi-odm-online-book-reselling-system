@@ -17,11 +17,11 @@
 
 <p align="center">
   <p align="center">
-    <img src="https://img.shields.io/github/downloads/dzalhaqi/fastapi-fastapi-odm-online-book-reselling-system/total"/>
-    <img src="https://img.shields.io/github/contributors/dzalhaqi/fastapi-fastapi-odm-online-book-reselling-system?color=dark-green"/>
-    <img src="https://img.shields.io/github/forks/dzalhaqi/fastapi-fastapi-odm-online-book-reselling-system?style=social"/>
-    <img src="https://img.shields.io/github/issues/dzalhaqi/fastapi-fastapi-odm-online-book-reselling-system"/>
-    <img src="https://img.shields.io/github/license/dzalhaqi/fastapi-fastapi-odm-online-book-reselling-system"/>
+    <img src="https://img.shields.io/github/downloads/dzalhaqi/fastapi-odm-online-book-reselling-system/total"/>
+    <img src="https://img.shields.io/github/contributors/dzalhaqi/fastapi-odm-online-book-reselling-system?color=dark-green"/>
+    <img src="https://img.shields.io/github/forks/dzalhaqi/fastapi-odm-online-book-reselling-system?style=social"/>
+    <img src="https://img.shields.io/github/issues/dzalhaqi/fastapi-odm-online-book-reselling-system"/>
+    <img src="https://img.shields.io/github/license/dzalhaqi/fastapi-odm-online-book-reselling-system"/>
   </p>
 </p>
 
@@ -119,7 +119,7 @@ uvicorn main:app --reload
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/dzalhaqi/fastapi-odm-online-book-reselling-system/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/dzalhaqi/fastapi-odm-online-book-reselling-system/blob/main/LICENSE) for more information.
 
 ## Acknowledgements
 
